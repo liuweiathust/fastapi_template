@@ -3,4 +3,4 @@ uvicorn[standard]
 python-jose[cryptography]
 passlib[bcrypt]
 pymongo
-dotenv
+python-dotenv
